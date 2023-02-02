@@ -7,6 +7,6 @@ Here stores most of the notes I have taken/copied during class ,(which are not c
 
 ## Upcoming
 - COMP2396
-- COMP3297 (maybe?)
-- COMP3278 (maybe?)
+- COMP3278
+- PHYS1650
 - To be confirmed
