@@ -9,4 +9,5 @@ Here stores most of the notes I have taken/copied during class ,(which are not c
 - PHYS1650 (2022 S2)
 
 ## Upcoming
-- To be confirmed
+- COMP3230 (2023 S1)
+- ELEC3342 (2023 S1)
