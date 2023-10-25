@@ -7,8 +7,8 @@ Here stores most of the notes I have taken/copied during class ,(which are not c
 - COMP3278 (2022 S2)
 - ELEC2441 (2022 S1)
 - PHYS1650 (2022 S2)
-- COMP3230 (2023 S1)
-- ELEC3342 (2023 S1)
+- COMP3230 (2023 S1) Incomplete
+- ELEC3342 (2023 S1) Incomplete
 
 ## Upcoming Courses
 To be confirmed
