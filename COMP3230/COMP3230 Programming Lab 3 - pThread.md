@@ -3,10 +3,6 @@
 
 # Thread
 - share same pid as main thread
-- 
-
-
-
 ## Precaution when using pThread
 - Include pThread header file
 ```C
@@ -16,7 +12,6 @@
 ```bash
 gcc prog.c -pthread -o prog
 ```
-
 ## Create a thread
 ```C
 // function for theread to compute

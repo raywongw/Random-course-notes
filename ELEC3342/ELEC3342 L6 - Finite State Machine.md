@@ -1,3 +1,4 @@
+
 [[ELEC3342 L5 - Sequential Logic|Previous Chapter]] [[ELEC3342 L7 - VHDL II|Next Chapter]]
 ## Example - Ticket Gate at MTR
 - Gate open after valid Octopus Card is scanned

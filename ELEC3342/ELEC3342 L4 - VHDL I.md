@@ -1,3 +1,4 @@
+
 [[ELEC3342 L3 - Arithmetic Blocks|Previous Chapter]] [[ELEC3342 L5 - Sequential Logic|Next Chapter]]
 ### Hardware Description Language
 

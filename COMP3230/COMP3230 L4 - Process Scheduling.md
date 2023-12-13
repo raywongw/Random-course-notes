@@ -279,4 +279,3 @@ Cons
 	- Divide CPU resource fairly by available runnable process
 	- each process gets a fair fraction of CPU time based on number of process
 	- Process with higher weighting factor receives larger proportion of CPU time
-- 

@@ -1,3 +1,4 @@
+
 [[ELEC3342 L7 - VHDL II|Previous Chapter]] [[ELEC3342 L9 - Memory|Next Chapter]]
 
 ## Counter

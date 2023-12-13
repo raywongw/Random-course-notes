@@ -1,3 +1,4 @@
+
 [[ELEC3342 L4 - VHDL I|Previous Chapter]] [[ELEC3342 L6 - Finite State Machine|Next Chapter]]
 ## Combinational v.s. Sequential
 

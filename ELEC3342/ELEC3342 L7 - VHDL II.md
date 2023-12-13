@@ -1,3 +1,4 @@
+
 [[ELEC3342 L6 - Finite State Machine|Previous Chapter]] [[ELEC3342 L8 - Sequential Building Blocks|Next Chapter]]
 ## Implementing FSM in VHDL
 - State register -> DFF
